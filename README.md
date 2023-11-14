@@ -10,8 +10,7 @@ GIFs are attached at the end.
 
 ## Technologies Used
 
-- React and TailwindCSS for the frontend
-- Firebase for authentication
+- React for the frontend
 - Node/Express for creating API endpoints
 - MongoDB for storing chat room members and their messages
 - Socket.io for making the app real-time
@@ -20,12 +19,9 @@ GIFs are attached at the end.
 
 - Users can register/login via email and password.
 - Profile page where users can update their avatar and display name.
-- Generate random avatars using [DiceBear API](https://avatars.dicebear.com/docs/http-api)
 - Users can create a room to chat with others.
-- Users can see online status.
 - Search functionality.
 - Chatting is real-time.
-- Emoji picker is also integrated.
 - Dark mode can be enabled.
 
 ## Getting Started
@@ -56,7 +52,7 @@ To run this project locally, follow these steps:
 
 Please make sure to keep the `serviceAccountKey.json` file and sensitive information secure and not commit them to version control.
 
-## GIFs
+
 
 <!-- ![chrome-capture-2022-8-7](https://user-images.githubusercontent.com/66206865/188901119-65a05b65-3c76-4c3f-92c5-042d061df8e1.gif)
 
